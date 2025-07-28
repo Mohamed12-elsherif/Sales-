@@ -1,10 +1,10 @@
-# **Sales Dashboard
+# Sales Dashboard
 
-## *Project Overview
+## Project Overview
 
 This project is an interactive dashboard developed to analyze sales data and provide valuable insights into business performance. The dashboard allows users to explore various aspects of sales data, including sales by product, customer, ship mode, and geographical distribution.
 
-## *Key Features
+## Key Features
 
  The dashboard includes the following main sections:
 
