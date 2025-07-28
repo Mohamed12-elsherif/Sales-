@@ -60,11 +60,11 @@ For any questions or feedback, reach out via **[LinkedIn](https://www.linkedin.c
 
 ## Screenshots
 
-https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163129.png
-https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163154.png
-https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163211.png
-https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163258.png
-https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163313.png
+![Dashboard Screenshot](https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163129.png)
+![Dashboard Screenshot](https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163154.png)
+![Dashboard Screenshot](https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163211.png)
+![Dashboard Screenshot](https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163258.png)
+![Dashboard Screenshot](https://github.com/Mohamed12-elsherif/Sales-/blob/main/Screenshot%202025-07-27%20163313.png)
 
 
 
